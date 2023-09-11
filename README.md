@@ -4,3 +4,4 @@
 
 - Firebase database
     - onSnapshot - listens to changes in database and updates local data accordingly
+    - debouncing
